@@ -1,0 +1,5 @@
+gql/__pycache__
+hero/__pycache__
+inventory/migrations
+hero/migrations
+venv
